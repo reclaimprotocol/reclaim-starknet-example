@@ -1,5 +1,4 @@
 import { useState, useEffect, useMemo } from "react";
-import { Reclaim } from "@reclaimprotocol/js-sdk";
 import { Button } from "./components/ui/Button";
 import { useAccount } from "@starknet-react/core";
 import transformProof from "./utils/transformProof";
