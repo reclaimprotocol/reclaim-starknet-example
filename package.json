@@ -19,7 +19,7 @@
     "ethers": "^5.7.0",
     "get-starknet": "^3.3.3",
     "get-starknet-core": "^3.3.3",
-    "next": "^14.0.1",
+    "next": "^15.5.24",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-qr-code": "^2.0.15",
